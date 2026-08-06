@@ -1,0 +1,124 @@
+skill,category
+Python,Programming Language
+Java,Programming Language
+C++,Programming Language
+C#,Programming Language
+JavaScript,Programming Language
+TypeScript,Programming Language
+Go,Programming Language
+Rust,Programming Language
+Kotlin,Programming Language
+Swift,Programming Language
+PHP,Programming Language
+Ruby,Programming Language
+R,Programming Language
+Scala,Programming Language
+MATLAB,Programming Language
+Perl,Programming Language
+Dart,Programming Language
+HTML,Web Development
+CSS,Web Development
+Bootstrap,Web Development
+Tailwind CSS,Web Development
+React,Web Development
+Angular,Web Development
+Vue.js,Web Development
+Next.js,Web Development
+Node.js,Web Development
+Express.js,Web Development
+Django,Web Development
+Flask,Web Development
+FastAPI,Web Development
+Spring Boot,Web Development
+ASP.NET,Web Development
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+SQLite,Database
+MongoDB,Database
+Oracle,Database
+MariaDB,Database
+Redis,Database
+Cassandra,Database
+Firebase,Database
+Machine Learning,Machine Learning
+Deep Learning,Machine Learning
+Artificial Intelligence,Machine Learning
+NLP,Machine Learning
+Computer Vision,Machine Learning
+Scikit-learn,Machine Learning
+TensorFlow,Machine Learning
+PyTorch,Machine Learning
+Keras,Machine Learning
+XGBoost,Machine Learning
+LightGBM,Machine Learning
+CatBoost,Machine Learning
+OpenCV,Machine Learning
+Hugging Face,Machine Learning
+LangChain,Machine Learning
+Sentence Transformers,Machine Learning
+Pandas,Data Analysis
+NumPy,Data Analysis
+Matplotlib,Data Analysis
+Seaborn,Data Analysis
+Plotly,Data Analysis
+Power BI,Data Analysis
+Tableau,Data Analysis
+Excel,Data Analysis
+EDA,Data Analysis
+Data Cleaning,Data Analysis
+Feature Engineering,Data Analysis
+Statistics,Data Analysis
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+Microsoft Azure,Cloud
+Cloud Computing,Cloud
+EC2,Cloud
+S3,Cloud
+Lambda,Cloud
+Git,DevOps
+GitHub,DevOps
+GitLab,DevOps
+Docker,DevOps
+Kubernetes,DevOps
+Jenkins,DevOps
+CI/CD,DevOps
+Linux,DevOps
+Bash,DevOps
+Android,Mobile Development
+iOS,Mobile Development
+Flutter,Mobile Development
+React Native,Mobile Development
+Xamarin,Mobile Development
+Cyber Security,Security
+Network Security,Security
+Ethical Hacking,Security
+Penetration Testing,Security
+OWASP,Security
+Cryptography,Security
+Wireshark,Security
+LLM,Generative AI
+GPT,Generative AI
+Gemini,Generative AI
+Claude,Generative AI
+Prompt Engineering,Generative AI
+RAG,Generative AI
+Vector Database,Generative AI
+FAISS,Generative AI
+Pinecone,Generative AI
+ChromaDB,Generative AI
+OOP,Software Engineering
+DSA,Software Engineering
+Design Patterns,Software Engineering
+REST API,Software Engineering
+Microservices,Software Engineering
+Agile,Software Engineering
+Scrum,Software Engineering
+Unit Testing,Software Engineering
+VS Code,Tools
+Jupyter Notebook,Tools
+Anaconda,Tools
+Postman,Tools
+Figma,Tools
+Linux,Tools

@@ -4,13 +4,19 @@ from models.resume_model import ResumeModel
 from modules.parser import ResumeParser
 from modules.extractors.information_extractor import InformationExtractor
 from modules.extractors.skill_extractor import SkillExtractor
+from modules.extractors.education_extractor import EducationExtractor
+from modules.extractors.experience_extractor import ExperienceExtractor
+
+
 
 class ResumeProcessor:
 
-    def __init__(self, skills_file):
+    def __init__(self, skills_file, degrees_file):
         self.parser = ResumeParser()
         self.information_extractor = InformationExtractor()
         self.skill_extractor = SkillExtractor(skills_file)
+        self.education_extractor = EducationExtractor(degrees_file)
+        self.experience_extractor = ExperienceExtractor()
 
     def process_resume(self, file_path):
 
@@ -28,5 +34,12 @@ class ResumeProcessor:
 
         skills = self.skill_extractor.extract_skills(text)
         resume["skills"] = skills
+
+        education = self.education_extractor.extract_education(text)
+        resume["education"] = education
+
+        experience = self.experience_extractor.extract_experience(text)
+        resume["experience"] = experience
+        
 
         return resume
